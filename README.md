@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Alle84fr/Alle84fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px;"><img src="https://github.com/user-attachments/assets/310a0849-4dfe-4df8-bff9-3db04932f22f" alt="HI" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover;"><span style="font-size: 70px; font-weight: bold;">&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbspOi, sou Alessandra</span></div>
+&nbsp;
 
-Here are some ideas to get you started:
+- 🔋 Estudando Analise e Desenvolvimento de Sistemas / Studying Systems Analysis and Development 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔌 Apendendo / Learning 💾
+
+  - Pyhon
+ 
+  - Kotlin
+ 
+  - Flask
+ 
+  - RPA
+ 
+  - Docker
+ 
+  - CSS
+ 
+  - Java Script
+    
+  - HTML
+ 
+  - SQL
+    
+- 👩🏾‍🦱 Pronouns: Ela / Dela / She / Her 👩🏾‍💻
+
+- 😛 Pergunte-me sobre minha criação de jogo de plataforma - irreal, blueprint / Ask me about my game creation - unreal, blueprint 🎮
+
