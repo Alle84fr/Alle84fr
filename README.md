@@ -7,5 +7,5 @@
  
 - 👩🏾‍🦱 Pronouns: Ela / Dela / She / Her 👩🏾‍💻
 
-- 😛 Pergunte-me sobre minha criação de jogo de plataforma - irreal, blueprint / Ask me about my game creation - unreal, blueprint 🎮
+- 😛 Pergunte-me sobre minha criação de jogo de plataforma - Unreal, blueprint / Ask me about my game creation - Unreal, blueprint 🎮
 
