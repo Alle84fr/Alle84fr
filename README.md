@@ -3,27 +3,7 @@
 &nbsp;
 
 - 🔋 Estudando Analise e Desenvolvimento de Sistemas / Studying Systems Analysis and Development 💻
-
-- 🔌 Apendendo / Learning 💾
-
-  - Pyhon
  
-  - Kotlin
- 
-  - Flask
- 
-  - RPA
- 
-  - Docker
- 
-  - CSS
- 
-  - Java Script
-    
-  - HTML
- 
-  - SQL
-    
 - 👩🏾‍🦱 Pronouns: Ela / Dela / She / Her 👩🏾‍💻
 
 - 😛 Pergunte-me sobre minha criação de jogo de plataforma - irreal, blueprint / Ask me about my game creation - unreal, blueprint 🎮
