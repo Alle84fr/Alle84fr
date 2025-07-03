@@ -42,20 +42,20 @@
     <br>
     <br>
     <p>🔸 **java_com_springBoot** </p>
-    <p> Repositório: [java_com_springBoot](https://github.com/Alle84fr/java_com_springBoot) </p>
+    <p> Repositório: https://github.com/Alle84fr/java_com_springBoot </p>
     <p> Curso ministrado pela professora <a href="https://github.com/danileao">@danileao</a> no site <a href="https://app.rocketseat.com.br/">Rocketseat</a>.
     <p> Criei este repositório para poder acompanhar as aulas e melhorar meu aprendizado.
     <br>
     <br>
     <p>🔹 **Meu_Semestre** </p>
-    <p> Repositório: [Meu_Semestre](https://github.com/Alle84fr/Meu_Semestre) </p>
+    <p> Repositório: https://github.com/Alle84fr/Meu_Semestre </p>
     <p> Trabalho de faculdade, aula de Desenvolvimento Mobile, ministrada pelo professor <a href="https://github.com/gustavomolina17">@gustavomolina17</a>.
     <p> Linguagem Kotlin, IDE Android Studio e site Figma.</p>
     <p> Atuei na criação do front-end de algumas activitys, e no sistema de mudança delas.
     <br>
     <br>
     <p>🔸 **Outro Projeto (Exemplo de correção)** </p>
-    <p> Repositório: [OutroProjetoJavaSpringBoot](https://github.com/Alle84fr/java_com_springBoot) </p>
+    <p> Repositório: https://github.com/Alle84fr/java_com_springBoot </p>
     <p> Curso ministrado pela professora <a href="https://github.com/danileao">@danileao</a> no site <a href="https://app.rocketseat.com.br/">Rocketseat</a>.
     <p> Criei este repositório para poder acompanhar as aulas e melhorar meu aprendizado.
     <br>
