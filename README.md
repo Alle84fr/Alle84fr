@@ -6,8 +6,6 @@
   &nbsp;&nbsp;
   <a href="#commits-e-linguas">Commits e linguas</a>
   &nbsp;&nbsp;
-  <a href="#estrutura-do-projeto">Estrutura do projeto</a>
-  &nbsp;&nbsp;
 </h4>
 <br>
 <br>
