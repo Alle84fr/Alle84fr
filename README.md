@@ -17,7 +17,6 @@
 </h3>
 <br>
 <br>
-<p align="center""><a href="#topo">⍐ </a></p>
 <br>
 <div>
     <h2 align="center">
