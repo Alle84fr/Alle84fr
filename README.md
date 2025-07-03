@@ -54,8 +54,8 @@
     <p> Atuei na criação do front-end de algumas activitys, e no sistema de mudança delas.
     <br>
     <br>
-    <p>🔸 **Outro Projeto (Exemplo de correção)** </p>
-    <p> Repositório: https://github.com/Alle84fr/java_com_springBoot </p>
+    <p>🔸 **rpa_aulas_impacta** </p>
+    <p> Repositório: https://github.com/Alle84fr/rpa_aulas_impacta </p>
     <p> Curso ministrado pela professora <a href="https://github.com/danileao">@danileao</a> no site <a href="https://app.rocketseat.com.br/">Rocketseat</a>.
     <p> Criei este repositório para poder acompanhar as aulas e melhorar meu aprendizado.
     <br>
