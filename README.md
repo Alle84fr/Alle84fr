@@ -1,4 +1,6 @@
 <br>
+<a name = "topo"></a>
+<br>
 <h4 align="center">
   <a href="#quem-sou">Quem sou</a>
   &nbsp;&nbsp;
@@ -17,6 +19,8 @@
 </h3>
 <br>
 <br>
+<p align="center""><a href="#topo">↥ </a></p>
+<br>
 <div>
     <h2 align="center">
         <a name="quem-sou"></a> 𖠋 Quem sou 
@@ -32,6 +36,7 @@
     <br>
 </div>
 <br>
+<p align="center"><a href="#topo">↥ </a></p>
 <br>
 <div>
     <h2 align="center">
@@ -59,6 +64,7 @@
     <br>
 </div>
 <br>
+<p align="center"><a href="#topo">↥ </a></p>
 <br>
 <div>
     <h2align="center"><a name="commits-e-linguas"></a>𖥶 Commits e linguas
@@ -69,3 +75,5 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alle84fr&layout=compact&theme=default"/>
     <br>
 </div>
+<br>
+<p align="center"><a href="#topo">↥ </a></p>
