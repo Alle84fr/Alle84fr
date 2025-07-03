@@ -1,4 +1,3 @@
-<br>
 <a name = "topo"></a>
 <br>
 <h4 align="center">
@@ -9,7 +8,6 @@
   <a href="#commits-e-linguas">Commits e linguas</a>
   &nbsp;&nbsp;
 </h4>
-<br>
 <br>
 <h3 align="center">
   <img src="https://github.com/user-attachments/assets/310a0849-4dfe-4df8-bff9-3db04932f22f"/>
