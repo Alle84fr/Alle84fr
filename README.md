@@ -33,7 +33,7 @@
     <br>
 </div>
 <br>
-<p align="center"><a href="#topo">⍐ </a></p>
+<p align="center"><a href="#topo">voltar ⍐ </a></p>
 <br>
 <div>
     <h2 align="center">
@@ -61,7 +61,7 @@
     <br>
 </div>
 <br>
-<p align="center"><a href="#topo">⍐ </a></p>
+<p align="center"><a href="#topo">voltar ⍐ </a></p>
 <br>
 <div>
     <h2align="center"><a name="commits-e-linguas"></a>𖥶 Commits e linguas
@@ -73,4 +73,4 @@
     <br>
 </div>
 <br>
-<p align="center"><a href="#topo">⍐ </a></p>
+<p align="center"><a href="#topo">voltar ⍐ </a></p>
